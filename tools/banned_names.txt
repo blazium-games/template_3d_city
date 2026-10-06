@@ -1,0 +1,13 @@
+BAKE_TIMEOUT_MSEC
+NAVIGATION_BAKE_BOUNDS
+NAVIGATION_BAKE_GROUP
+NAVIGATION_PROXY_SCENE
+OUTPUT_SCENE
+VISUAL_CITY_SCENE
+_build_city_environment
+_collect_mesh_instances
+_create_navigation_mesh
+_fail
+_generate_static_trimesh_collisions
+build_city_navigation.gd
+city_kit_workspace.tscn
